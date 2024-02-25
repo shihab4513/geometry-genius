@@ -1,7 +1,6 @@
 
 
 
-
 function calcTriangleArea() {
     const a = document.getElementById('triangle-input-a');
     const b = document.getElementById('triangle-input-b');
@@ -11,6 +10,7 @@ function calcTriangleArea() {
 
 
 }
+
 
 
 function calcRectangleArea() {
